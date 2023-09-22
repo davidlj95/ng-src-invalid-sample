@@ -1,5 +1,8 @@
 # NgSrcInvalidSample
 
+# PoC for Jetbrains AngularJS & Angular plugin bug
+https://youtrack.jetbrains.com/issue/WEB-63029/Angular-16-ngSrc-attribute-expects-a-true-false-ngSrc-value
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
 ## Development server
